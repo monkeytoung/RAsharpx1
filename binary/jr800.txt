@@ -1,0 +1,21 @@
+"eJR-800" - National JR-800 emulator for Win32
+								3/15/2017
+
+--- Internal ROM image
+
+	BASIC.ROM	$8000 - $FFFF
+
+--- Key maps
+
+	Virtual		PC
+	--------------------------------
+	NumPad /	\
+	NumPad *	[
+	NumPad -	]
+	NumPad +	_
+	NumPad =	/
+
+----------------------------------------
+TAKEDA, toshiya
+t-takeda@m1.interq.or.jp
+http://takeda-toshiya.my.coocan.jp/

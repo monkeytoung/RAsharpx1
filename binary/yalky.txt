@@ -1,0 +1,21 @@
+"eYALKY" - Yuasa Kyouiku System YALKY emulator for Win32
+								4/13/2016
+
+--- Internal ROM image
+
+	BIOS.ROM
+	FONT.ROM
+
+--- Key maps
+
+	Virtual		PC
+	--------------------------------
+	CLEAR		BACK SPACE
+	MARK		SPACE
+	BACK		ESC
+	SET		ENTER
+
+----------------------------------------
+TAKEDA, toshiya
+t-takeda@m1.interq.or.jp
+http://takeda-toshiya.my.coocan.jp/
